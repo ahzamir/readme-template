@@ -38,6 +38,8 @@ inside the project direcory open the commanline or Terminal, run npm install to 
 
 ### Usage
 
+To use this project or app run npm start in the project directory and you will see the live serever open on youe browser.
+
 ### Run tests
 
 For running tests inside the project directory run npm test in command line or Terminal.
