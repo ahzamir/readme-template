@@ -26,7 +26,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-You must have a browser on your device, visual code, a git version, node.js installed in your device and clone the repo from GitHub and follow the steps below.
+You must have a browser on your device, visual code, a git version, [node.js installed](https://nodejs.org/en/) in your device and clone the repo from GitHub and follow the steps below.
 
 ### Setup
 
