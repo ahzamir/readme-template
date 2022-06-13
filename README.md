@@ -5,13 +5,13 @@
 > Description the project.
 
 
-## Built With
+## Built With 
 
 - Major languages
 - Frameworks
 - Technologies used
 
-## Live Demo (if available)
+## Live Demo (if available) 💻
 
 [Live Demo Link](https://livedemo.com)
 
@@ -26,31 +26,30 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+You must have a browser on your device, visual code, a git version, node.js installed in your device and clone the repo from GitHub and follow the steps below.
+
 ### Setup
 
+Clone the repository from GitHub, open the project folder, inside the project direcory open the commanline or Terminal and install the dependicies.
+
 ### Install
+
+inside the project direcory open the commanline or Terminal, run npm install to install all the dependicies.
 
 ### Usage
 
 ### Run tests
 
-### Deployment
+For running tests inside the project directory run npm test in command line or Terminal.
 
+### Deployment
 
 
 ## Authors
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@ahzamir](https://github.com/ahzamir).
+- Twitter: [@YousufiZamir](https://twitter.com/YousufiZamir)
+- LinkedIn: [ahmad-zamir-yousufi](https://www.linkedin.com/in/ahzamir/)
 
 ## 🤝 Contributing
 
